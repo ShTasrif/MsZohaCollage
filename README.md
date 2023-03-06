@@ -17,3 +17,7 @@ python mszoha.py
 ```bash
 mszoha
 ```
+### Screenshot:
+
+
+![20230306_201226](https://user-images.githubusercontent.com/85736436/223135235-291567fa-bcba-4141-9cf0-e142b84d3792.png)
