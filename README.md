@@ -1,15 +1,10 @@
 <div align="center">
 
 <a href="https://www.github.com/ShTasrif"><img src="https://img.shields.io/github/followers/ShTasrif?logo=GITHUB&style=for-the-badge" alt="followers" ></a>
-
 <a href="https://www.github.com/ShTasrif/MsZohaCollage"><img src="https://img.shields.io/badge/Version-v1.0.0-dark?style=for-the-badge" alt="version" ></a>
-
 <a href="https://www.github.com/ShTasrif/MsZohaCollage"><img src="https://img.shields.io/github/stars/ShTasrif/MsZohaCollage?logo=GITHUB&style=for-the-badge" alt="stars" ></a>
-
 <a href="https://www.github.com/ShTasrif/MsZohaCollage/fork"><img src="https://img.shields.io/github/forks/ShTasrif/MsZohaCollage?logo=GITHUB&style=for-the-badge" alt="forks" ></a>
-
 <a href="https://www.github.com/ShTasrif/MsZohaCollage"><img src="https://img.shields.io/github/watchers/ShTasrif/MsZohaCollage?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
-
 <a href="https://www.github.com/ShTasrif/MsZohaCollage/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ShTasrif/MsZohaCollage?logo=license&style=for-the-badge" alt="total watchers" ></a>
 
 </div>
