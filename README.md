@@ -1,3 +1,19 @@
+<div align="center">
+
+<a href="https://www.github.com/ShTasrif"><img src="https://img.shields.io/github/followers/ShTasrif?logo=GITHUB&style=for-the-badge" alt="followers" ></a>
+
+<a href="https://www.github.com/ShTasrif/cybersh"><img src="https://img.shields.io/badge/Version-v1.2.9-dark?style=for-the-badge" alt="version" ></a>
+
+<a href="https://www.github.com/ShTasrif/cybersh"><img src="https://img.shields.io/github/stars/ShTasrif/cybersh?logo=GITHUB&style=for-the-badge" alt="stars" ></a>
+
+<a href="https://www.github.com/ShTasrif/cybersh/fork"><img src="https://img.shields.io/github/forks/ShTasrif/cybersh?logo=GITHUB&style=for-the-badge" alt="forks" ></a>
+
+<a href="https://www.github.com/ShTasrif/cybersh"><img src="https://img.shields.io/github/watchers/ShTasrif/cybersh?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
+
+<a href="https://www.github.com/ShTasrif/cybersh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ShTasrif/cybersh?logo=license&style=for-the-badge" alt="total watchers" ></a>
+
+</div>
+
 # MsZohaCollage
 MsZohaCollage Student Information and other information gathering tools.
 
@@ -17,6 +33,19 @@ python mszoha.py
 ```bash
 mszoha
 ```
+<div align="center">
+
+<h3>━━━━ Connect with me ━━━━</h3>
+
+<a href="https://fb.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TOXIC-VIRUS" height="30" width="40" /></a>
+
+<a href="https://twitter.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cybershbd" height="30" width="40" /></a>
+
+<a href="https://fb.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohammad Alamin" height="30" width="40" /></a>
+
+<a href="https://instagram.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akxvau" height="30" width="40" /></a>
+
+</div>
 ### Screenshot:
 
 ![20230306_200627](https://user-images.githubusercontent.com/85736436/223135887-aba71f6e-52f6-4907-9894-27e7463ea54e.png)
